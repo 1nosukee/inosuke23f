@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @inosuke23f
-- 👀 I’m interested in c
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on c
-- 📫 How to reach me 0
+👋 Hello there!, my name is walid.
 
-<!---
-inosuke23f/inosuke23f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 I'm on a coding adventure, learning new things every day and exploring the world of programming. 🚀
+
+💡 Currently, I'm working on expanding my knowledge in various programming languages, algorithms, and software development practices.
+
+📚 I believe in the power of continuous learning and collaboration, so if you have any questions or want to discuss coding, technology, or anything else, feel free to reach out. Let's learn and grow together!
+
+🌟 Remember, the journey of a thousand commits begins with a single push. Keep coding and stay curious! 
+
+#CodeLife #LearningIsFun #GitHubAdventures
